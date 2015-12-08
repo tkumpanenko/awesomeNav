@@ -1,0 +1,23 @@
+{
+  "name": "awesomeNav",
+  "description": "awesome navigation",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "navigation",
+    "css3",
+    "animated"
+  ],
+  "authors": [
+    "t.kumpanenko@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

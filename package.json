@@ -1,0 +1,20 @@
+{
+  "name": "awesome-nav",
+  "version": "1.0.0",
+  "description": "awesome nav for your website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nav",
+    "animated",
+    "css3",
+    "awesome"
+  ],
+  "author": "t.kumpanenko",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
